@@ -1,4 +1,4 @@
-#Get Started
+# Get Started
 
 ## Create your bot.
 Go to the @BotFather in telegram and create your bot.
